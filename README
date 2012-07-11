@@ -1,0 +1,41 @@
+For a space that is 'populated':
+	Each cell with one or no neighbors dies, as if by loneliness.
+	Each cell with four or more neighbors dies, as if by overpopulation.
+	Each cell with two or three neighbors survives.
+	
+For a space that is 'empty' or 'unpopulated'
+	Each cell with three neighbors becomes populated.
+	
+	
+----------------------------------------------
+
+2012/07/11
+
+h1. Presentes:
+
+* Bruno Nascimento
+* Flavio de Sousa
+* Willian Pinho
+* Matheus Pimenta
+* Werberson Silva
+* Fabs Buzeto
+
+h1. =]
+
+* Veio galera nova
+* Discussão sobre TDD
+* Galera vendo a grande cobra (Python) pela primeira vez
+** Discutimos bastante dos conceitos por trás do que estava sendo feito
+* Todo mundo codou
+* Começamos no horário
+
+h1. =[
+
+* Muito papo paralelo
+** Muita distração
+* Muitos passos de gigantes
+** Dificuldade de pensar testes que ajudam nos Baby steps
+* A linguagem atrapalhou as vezes
+* Não comitamos nenhuma vez
+
+h1. OBS
